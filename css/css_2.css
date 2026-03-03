@@ -1,0 +1,78 @@
+@font-face {
+  font-family: 'Kanit';
+  font-style: normal;
+  font-weight: 300;
+  src: url(../fonts/nKKU-Go6G5tXcr4-ORWpVaQ.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Kanit';
+  font-style: normal;
+  font-weight: 400;
+  src: url(../fonts/nKKZ-Go6G5tXcrabGwU.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Kanit';
+  font-style: normal;
+  font-weight: 500;
+  src: url(../fonts/nKKU-Go6G5tXcr5mOBWpVaQ.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Kanit';
+  font-style: normal;
+  font-weight: 600;
+  src: url(../fonts/nKKU-Go6G5tXcr5KPxWpVaQ.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Kanit';
+  font-style: normal;
+  font-weight: 700;
+  src: url(../fonts/nKKU-Go6G5tXcr4uPhWpVaQ.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Overlock';
+  font-style: normal;
+  font-weight: 400;
+  src: url(../fonts/Z9XVDmdMWRiN1_T9Z7TX6Ok.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Overlock';
+  font-style: normal;
+  font-weight: 700;
+  src: url(../fonts/Z9XSDmdMWRiN1_T9Z7xizfmFtrk.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Overlock';
+  font-style: normal;
+  font-weight: 900;
+  src: url(../fonts/Z9XSDmdMWRiN1_T9Z7xaz_mFtrk.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Plus Jakarta Sans';
+  font-style: normal;
+  font-weight: 300;
+  src: url(../fonts/LDIbaomQNQcsA88c7O9yZ4KMCoOg4IA6-91aHEjcWuA_9079Qx_Q.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Plus Jakarta Sans';
+  font-style: normal;
+  font-weight: 400;
+  src: url(../fonts/LDIbaomQNQcsA88c7O9yZ4KMCoOg4IA6-91aHEjcWuA_qU79Qx_Q.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Plus Jakarta Sans';
+  font-style: normal;
+  font-weight: 500;
+  src: url(../fonts/LDIbaomQNQcsA88c7O9yZ4KMCoOg4IA6-91aHEjcWuA_m079Qx_Q.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Plus Jakarta Sans';
+  font-style: normal;
+  font-weight: 600;
+  src: url(../fonts/LDIbaomQNQcsA88c7O9yZ4KMCoOg4IA6-91aHEjcWuA_d0n9Qx_Q.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Plus Jakarta Sans';
+  font-style: normal;
+  font-weight: 700;
+  src: url(../fonts/LDIbaomQNQcsA88c7O9yZ4KMCoOg4IA6-91aHEjcWuA_Tkn9Qx_Q.ttf) format('truetype');
+}
